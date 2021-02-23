@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo '更新系统根证书.'
+update-ca-certificates
